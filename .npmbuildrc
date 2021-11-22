@@ -1,0 +1,11 @@
+{
+	"liferayDir": "C:\\Users\\Expsac\\liferay-ce-portal-7.3.1-ga2",
+	"webpack": {
+		"rules": [
+			{
+				"test": "src\\\\.*\\.js$",
+				"use": "babel-loader"
+			}
+		]
+	}
+}
