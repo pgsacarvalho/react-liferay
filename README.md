@@ -1,5 +1,4 @@
-# Project Title
-react-example
+# react-example
 
 ## Table of Content:
 
